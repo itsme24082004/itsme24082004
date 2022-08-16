@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @itsme24082004
+- 👀 I’m interested in programming and finding new open source apps and testing them. 
+- 🌱 I’m recently learnt java.
+- Now i am just a student.
